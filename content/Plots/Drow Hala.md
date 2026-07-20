@@ -1,0 +1,2 @@
+- x'in halası aslında drowmuş.
+- [[Theo]]'nun yardımcısına söyledik bu bilgiyi.

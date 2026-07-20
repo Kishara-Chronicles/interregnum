@@ -1,0 +1,1 @@
+Kollin’in güçlü olduğu kasaba burası

@@ -1,0 +1,2 @@
+- Çürüme ve yenilenmenin başmeleği
+- Karakuleye (İblis lordlarını çağıran büyücü - Vikonya) karşı Akkuleyi yapmış

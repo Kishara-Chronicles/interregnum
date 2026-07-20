@@ -1,0 +1,1 @@
+Şafak Panteonu genelde en kabul edilen ama ülkelerin de patron tanrıları var. [[Paralya]] da bu kişi **Corellon**. **Eratis**'i (medeniyet) sahiplenen ülke yok. 

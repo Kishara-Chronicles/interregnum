@@ -1,0 +1,6 @@
+- Üç Gelenek Manastırı'nda olduğunu öğrendi [[Oliver]].
+	- 11 gelenekten 3üne odaklanmış haldeler.  Ayna Parıltısı, Bıçak Kenarı ve Bitmez Çember odaklılar.
+- Mirror’s Glint üstadı **Jacomina von Molay**
+- ortak nokta bir şeye adamak kendimizi
+- [[Mareşal Franz]]- bıçak kenarının üstadı
+- 3lü item yolunda çıktık yola

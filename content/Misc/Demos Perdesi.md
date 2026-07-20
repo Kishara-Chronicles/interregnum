@@ -1,0 +1,1 @@
+- Hive mind olup yeni lideri seçme sistemi gibi gibi? Lattice of Heaven'la alakalı olabilir.

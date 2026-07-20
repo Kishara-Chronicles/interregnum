@@ -1,0 +1,1 @@
+- [[Harald]] burada daha çok kişiyle tanışıp, seçime de katılıp kazandı.
