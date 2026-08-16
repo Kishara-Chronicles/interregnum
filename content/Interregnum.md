@@ -32,3 +32,8 @@
 - [[IR43 - Yiyin Efendiler!]]
 - [[IR44 - Maskeli Balo]]
 - [[IR46 - Manastıra Tırmanış]]
+- [[IR47 - Gym Fight]]
+- [[IR48 - 1. Kongre]]
+- [[IR49 - We are Pirates!]]
+- [[IR50 - Hainin Sonu]]
+- [[IR51 - Theo's Seven]]

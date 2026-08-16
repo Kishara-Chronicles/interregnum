@@ -1,0 +1,22 @@
+Reel Tarihi: 16.08.2027 - 
+- Ingame Tarih: ?? - 05.01.1834
+- [[IR50 - Hainin Sonu]]
+----
+- Şehirde sadece dini grup silah kullanabiliyor. 
+- [[Bauman]] bizle konuşmak istiyor. Aşağıdaki ekip de orada:
+	- Luedgard burada
+	- Rabduka lideri 
+	- Sehanin rahibi bir elf
+	- Theo'nun koruması epsiogenes de burada
+- [[Mareşal Franz]] imzalamadı.
+- [[Bauman'ın Temel Yasa Taslağı]]
+- Saraydan prens ve prenses kaçırıp, onları zümreler meclisi önünde ilan etmeyi planlıyoruz ama nasıl kaçıracağız?
+- Taht odasını koruyan:
+	- Taştan aslan - golem: sadece büyülü silahlar zarar veriyor
+	- Büyülü cin varmış
+- 6 ocak gecesi girip kaçırmayı deniyoruz
+- İçeri girdik cinle karşılaştık
+## Flashback: 3 ocak
+- [[Mareşal Franz]]'ın beti benzi atmış, ilginç, 12 günlük bir yolculuğa çıktı.
+- [[Kardinal Karl]] imza atmış bu iptal etme işine.
+- [[Johann Kollin]] de kaçıyor gibi?

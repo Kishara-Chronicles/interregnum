@@ -1,2 +1,2 @@
 - Havalı şeyler anlatan, [[Oliver]]'a [[Samhain]] lore'u anlatan kişi.
-- [[Astrum]] hakkında da bilgili biri.
+- [[Setting/Astrum]] hakkında da bilgili biri.
