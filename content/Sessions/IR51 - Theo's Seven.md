@@ -1,14 +1,14 @@
-Reel Tarihi: 16.08.2027 - 
-- Ingame Tarih: ?? - 05.01.1834
-- [[IR50 - Hainin Sonu]]
+- **Reel Tarih:** 16.08.2026
+- **Ingame Tarih**: ?? - 06.01.1834
+- [[IR50 - Hainin Sonu]] - [[IR52 - Aslan, Cin ve Prens]]
 ----
-- Şehirde sadece dini grup silah kullanabiliyor. 
 - [[Bauman]] bizle konuşmak istiyor. Aşağıdaki ekip de orada:
 	- Luedgard burada
 	- Rabduka lideri 
+		- Rabdukalar şehirde sopa taşıyor normalde, milis kuvveti gibi bir şey
 	- Sehanin rahibi bir elf
 	- Theo'nun koruması epsiogenes de burada
-- [[Mareşal Franz]] imzalamadı.
+- [[Mareşal Franz]] imzalamadı. [[Agateo]]'dan gitti.
 - [[Bauman'ın Temel Yasa Taslağı]]
 - Saraydan prens ve prenses kaçırıp, onları zümreler meclisi önünde ilan etmeyi planlıyoruz ama nasıl kaçıracağız?
 - Taht odasını koruyan:

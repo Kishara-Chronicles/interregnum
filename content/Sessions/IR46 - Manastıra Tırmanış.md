@@ -1,4 +1,4 @@
-r- Reel Tarihi: 17.05.2026
+Reel Tarihi: 17.05.2026
 - Ingame Tarih: 3 Aralık - 9 Aralık 1834
 - Öncesi [[IR45 - Gelmeyen Sabah]]
 ---
@@ -7,7 +7,7 @@ r- Reel Tarihi: 17.05.2026
 	* [[Desmosios]] [[Ispadopolis]]'da ve [[Agateo]]'da burjuva kesimi ikna etti.
 	* [[Torgath]] [[Mesokomte]]’de seçmen olmayan sıradan halkı baya radikalize etti (this will have consequences), daha sonra da agresif taktiklerle tamamen sizin çizginizde çok daha fazla kişinin seçilmesini sağladı ve kendisi de bu çizgiden seçildi, böylece sizinle tamamen aynı çizgide grubun sandalye sayısı 89 oldu ve Üçüncü Zümre’deki en büyük grup oldu
 * Bir daha dans gecesi olacak, uyum gecesi. Sonrasında **Birlik Alametleri** 
-* Theodera talibin, Kaya halası aslında drow galiba - [[konfederasyon]]un eski kralı tarafından yollanmış buraya - Espinogees'e bunları anlattık.
+* Talip [[Theodora von Kassel]]'in halası ([[Theodora von Kassel]]) aslında drow galiba - [[konfederasyon]]un eski kralı tarafından yollanmış buraya - Espinogees'e bunları anlattık.
 * [[Ayna Parıltısı Cevheri]]nin peşine gidince **Jacomina von Molay**'la ([[Paralya]]'lı asıl bir kadın) tanıştık. 3 Gelenek Manastırında. 
 * [[Rüyakapanı]] da oradaymış. [[Oliver]] gerçeklikteki yarıklar hakkında bilgi edindi.
 * [[Harald]] devotion olarak halkların özgürlüğünü seçti.

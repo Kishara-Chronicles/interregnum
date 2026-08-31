@@ -1,3 +1,7 @@
+---
+permalink: index
+---
+
 # Notlar
 
 * Theo - 3 aday seçti.
@@ -37,3 +41,4 @@
 - [[IR49 - We are Pirates!]]
 - [[IR50 - Hainin Sonu]]
 - [[IR51 - Theo's Seven]]
+- [[IR52 - Aslan, Cin ve Prens]]

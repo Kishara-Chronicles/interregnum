@@ -1,0 +1,3 @@
+- [[Theodora von Kassel]]'ın halası.
+- Aslında drowmuş.
+- [[Theo]]'nun yardımcısına söyledik bu bilgiyi.

@@ -1,2 +1,2 @@
-- x'in halası aslında drowmuş.
+- [[Kaja von Kassel]]
 - [[Theo]]'nun yardımcısına söyledik bu bilgiyi.

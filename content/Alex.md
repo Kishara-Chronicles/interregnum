@@ -1,0 +1,1 @@
+- Halkın sevgilisi fırlama prens

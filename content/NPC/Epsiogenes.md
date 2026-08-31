@@ -1,0 +1,1 @@
+- [[Theo]]'nun koruması

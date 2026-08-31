@@ -29,9 +29,7 @@ The range of your presence increases to 20 feet at 5th level, 30 feet at 10th le
 **Benim yerime saldır yeteneği**
 ## Rallying Surge
 
-You can use a bonus action to choose **2 allies** within 30 feet of you. If the target can hear or see you, it regains hit points equal to **1d8 + your marshal level**. Once you use this feature, you must finish a [long rest](https://a5e.tools/rules/resting "Click to view a local node.") before you can use it again.
-
-Starting at 7th level you regain use of this feature after finishing a short or long rest.
+You can use a bonus action to choose **2 allies** within 30 feet of you. If the target can hear or see you, it regains hit points equal to **1d8 + your marshal level**. Once you use this feature, you must finish a **short & long rest** before you can use it again.
 ## Mark Foe
 
 You can use a **bonus action** to choose a creature you can see within **30 feet**. Until the start of your next turn, creatures able to hear or see you gain an [expertise die](https://a5e.tools/node/77 "Click to view a local node.") on attacks made against that creature.
