@@ -1,1 +1,3 @@
 - Halası ([[Kaja von Kassel]] ) aslında drow
+- Konfederasyon'dan gelen talip
+- Prenslerle muhabbet sonrası çok fazla detaylı notlar almış - bu defteri de [[IR52 - Aslan, Cin ve Prens]]'de biz aldık.

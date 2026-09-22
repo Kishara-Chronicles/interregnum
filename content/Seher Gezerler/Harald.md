@@ -42,7 +42,7 @@ You can use a **bonus action** to choose a creature you can see within **30 feet
 
 Starting at 5th level, you can direct your companions so effectively that they can use the techniques you’ve mastered. You learn one additional combat maneuver from the Sanguine Knot tradition. This combat maneuver does not count against the number of combat maneuvers that you know.
 
-In addition, when a creature uses your Commanding Presence to make an attack, it can simultaneously use one Sanguine Knot combat maneuver that you know. If the creature does not have any exertion points to spend on combat maneuvers, it does not require exertion points for that use but it cannot benefit from Combat Directives again until it has finished a [short or long rest](https://a5e.tools/rules/resting "Click to view a local node.").
+In addition, when a creature uses your Commanding Presence to make an attack, it can simultaneously use one **Sanguine Knot** combat maneuver that you know. If the creature does not have any exertion points to spend on combat maneuvers, it does not require exertion points for that use but it cannot benefit from Combat Directives again until it has finished a [short or long rest](https://a5e.tools/rules/resting "Click to view a local node.").
 ## Extra Attack
 
 You can attack **twice**, instead of once, whenever you take the Attack action on your turn. The number of attacks increases to three when you reach 11th level.

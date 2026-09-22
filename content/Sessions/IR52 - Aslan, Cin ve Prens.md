@@ -1,9 +1,10 @@
 - **Reel Tarih**: 31.08.2026 
 - **Ingame Tarih**: 06.01.1834 Gecesi
-- [[IR51 - Theo's Seven]] - 
+- [[IR51 - Theo's Seven]] - [[IR53 - Taç vs. Değnek]]
 ---
 - [[Agateo]]'da Sarayda Cin'le ve Aslan'la savaşarak başladık ve kıran kırana geçen bir dövüş sonrası onları altettik.
-- [[Epsiogenes]]'le beraber [[Sabrina Frederiche]]'i yanımıza aldık.
-- [[Theodora von Kassel]], [[Kaja von Kassel]]'in durumundan haberdar değil gibi.
+- [[Epsiogenes]]'le konuştuk ama bıraktık.
+- [[Sabrina Frederiche]]'i yanımıza aldık.
+- [[Theodora von Kassel]], [[Kaja von Kassel]]'in durumundan haberdar değil gibi davrandı.
 - [[Alex]] de bizimle gelmeye karar verdi.
 - [[Leon]]'un olduğu gemiye ışınlandık.
